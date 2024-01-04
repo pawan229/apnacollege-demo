@@ -1,3 +1,3 @@
 # apnacollege-demo
 This is my first git repository
-Author - Pawan kumar
+Author - Pawan kr roy
